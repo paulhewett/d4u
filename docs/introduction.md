@@ -1,5 +1,6 @@
 ---
 title: One Page Business Plan
+layout: default
 ---
 
 # One Page Business Plan

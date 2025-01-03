@@ -1,5 +1,6 @@
 ---
 title: Product Development Plan
+layout: default
 ---
 
 # Product Development Plan
