@@ -5,6 +5,9 @@ layout: default
 
 # Product Development Plan
 
+1. TOC
+{:toc}
+
 ## 3D Buggy Adapt
 
 Develop an adaptive kit that can improve the postural support provided in a mainstream buggy.
